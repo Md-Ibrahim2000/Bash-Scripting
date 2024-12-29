@@ -1,2 +1,2 @@
-# Bash-Scripting
+Programming Language - Bash
 Tasks
